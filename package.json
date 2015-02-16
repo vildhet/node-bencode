@@ -19,7 +19,7 @@
     {
       "name": "Jonas Hermsmeier",
       "email": "jhermsmeier@gmail.com",
-      "url": "https://jhermsmeier.de/"
+      "url": "https://jhermsmeier.de"
     }
   ],
   "main": "lib/bencode",
