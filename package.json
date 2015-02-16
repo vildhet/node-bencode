@@ -22,7 +22,7 @@
       "url": "https://jhermsmeier.de/"
     }
   ],
-  "main": "bencode.js",
+  "main": "lib/bencode",
   "devDependencies": {
     "bencoding": "latest",
     "bncode": "latest",
