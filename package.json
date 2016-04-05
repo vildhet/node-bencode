@@ -36,6 +36,9 @@
     "test": "tape test/*.test.js | tap-spec",
     "bench": "matcha"
   },
+  "bin": {
+    "bencode": "bin/bencode.js"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/themasch/node-bencode.git"
